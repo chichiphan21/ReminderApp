@@ -1,6 +1,10 @@
-# Reminder App (Flutter)
-
+# Reminder App 
+Phan Thi Chi -22git
 A minimal Flutter Reminder app that schedules local notifications using `flutter_local_notifications` and a `DateTimePicker` UI.
+
+
+Uploading Screen Recording 2025-11-04 at 00.25.55.mov…
+
 
 Features
 - Schedule a reminder with a custom title and date/time.
